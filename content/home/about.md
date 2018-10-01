@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Biology",
-    "Ecology"
+    "Ecology",
     "Making herbarium"
   ]
 
@@ -27,8 +27,8 @@ weight = 5
 #  year = 2021
 
 [[education.courses]]
-  course = "My orientation"
-  institution = "My high school"
+  course = "Bachelor in biology"
+  institution = "Athénée Royal de Thuin"
   year = 2018
 
 +++
