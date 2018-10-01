@@ -11,7 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Biology",
-    "..."
+    "Ecology"
+    "Making herbarium"
   ]
 
 # List your qualifications (such as academic degrees).

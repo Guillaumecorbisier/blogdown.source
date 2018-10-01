@@ -3,7 +3,7 @@ date = 2016-04-20
 lastmod = 2018-09-20
 draft = false
 tags = ["academic", "nature"]
-title = "My first blog"
+title = "Test"
 math = true
 summary = """
 Description of a project. 
@@ -16,8 +16,4 @@ preview = false
 
 +++
 
-Some devellopement
-
-## Albino Research
-
-**Albino what is this,Albino in human and animals society,research about it**...
+Test of description

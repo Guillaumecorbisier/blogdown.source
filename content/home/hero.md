@@ -27,7 +27,7 @@ weight = 3
 
 Guillaume Corbisier
 <br>
-<small>Student in 2nd Biology</small>
+<small>Student in 2nd Biology and interested in ecology</small>
 <br><br>
 
 <script type="text/javascript">
