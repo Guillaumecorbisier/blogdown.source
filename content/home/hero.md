@@ -25,9 +25,9 @@ weight = 3
 
 +++
 
-FIRSTNAME FAMILYNAME
+Guillaume Corbisier
 <br>
-<small>A short description of myself here</small>
+<small>Student in 2nd Biology</small>
 <br><br>
 
 <script type="text/javascript">
