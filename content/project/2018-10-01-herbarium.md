@@ -7,6 +7,5 @@ categories: []
 tags: [Plants]
 header:
   caption: ''
-  image: 'image-20160912-3807-16k79xh.jpg'
+  image: ''
 ---
-
