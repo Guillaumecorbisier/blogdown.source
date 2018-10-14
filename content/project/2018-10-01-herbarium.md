@@ -29,5 +29,5 @@ caption = "Image credit: **Trevor Cole** on Unsplash"
 
 Here I describe my project using Markdown formatting...
 
-![](/project/2018-10-01-herbarium_files/project.jpg)<img <img src="/project/2018-10-01-herbarium_files/Plants.jpg" alt="" width="200px" height="200px"/> 
- Test de commentaire voila
+![](/project/2018-10-01-herbarium_files/Plants.jpg)
+
