@@ -22,4 +22,4 @@ Some devellopement
 
 **Albino what is this,Albino in human and animals society,research about it**...
 
-Animal and plant may be affected by albino it's a lost of melanine
+Animal and plant may be affected by albino it's a lost of melanine. You can have lost melanine on one part of your body or on all 
