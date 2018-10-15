@@ -21,3 +21,5 @@ Some devellopement
 ## Albino Research
 
 **Albino what is this,Albino in human and animals society,research about it**...
+
+Animal and plant may be affected by albino it's a lost of melanine
