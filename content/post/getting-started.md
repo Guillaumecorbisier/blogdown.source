@@ -3,7 +3,7 @@ date = 2016-04-20
 lastmod = 2018-09-20
 draft = false
 tags = ["academic", "nature"]
-title = "My first blog"
+title = "Albinism what is this ?"
 math = true
 summary = """
 Description of a project. 

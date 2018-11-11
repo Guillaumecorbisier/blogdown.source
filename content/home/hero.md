@@ -12,8 +12,8 @@ weight = 3
 # Overlay a color or image (optional).
 #   Deactivate an option by commenting out the line, prefixing it with `#`.
 [header]
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "headers/main-header.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_color = "#B0C4DE"  # An HTML color value.
+  overlay_img = "headers/Paysage-header.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.3  # Darken the image. Value in range 0-1.
 
 # Call to action button (optional).
@@ -24,7 +24,7 @@ weight = 3
   label = '<i class="fa fa-download"></i> Curriculum Vitae (PDF)'
 
 +++
-
+![](/home/hero_files/photo-moi.jpg)
 Guillaume Corbisier
 <br>
 <small>Student in 2nd Biology and interested in ecology</small>

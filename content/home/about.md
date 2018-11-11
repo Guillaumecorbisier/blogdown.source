@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Biology",
     "Ecology",
-    "Making herbarium"
+    "Research about plant"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -35,4 +35,4 @@ weight = 5
 
 # About Me
 
-I am student at the University of Mons, Belgium... [tell here a little bit about you, using Markdown formatting]
+I am student at the University of Mons, Belgium in second class, passionate in biology since many years and interessed in the devellopement of the world looking for new thing to learn.
