@@ -24,7 +24,6 @@ weight = 3
   label = '<i class="fa fa-download"></i> Curriculum Vitae (PDF)'
 
 +++
-![](/home/hero_files/photo-moi.jpg)
 Guillaume Corbisier
 <br>
 <small>Student in 2nd Biology and interested in ecology</small>
