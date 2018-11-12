@@ -1,17 +1,16 @@
----
-title: Albinism what is this ?
-author: Guillaume Corbisier
-date: '2018-11-11'
-slug: albinism-what-is-this
-categories: []
-tags: []
-header: "headers/main-header.jpg"
-  caption: ''
-  image: ''
----
++++
+date = 2016-04-20
+lastmod = 2018-09-20
+draft = false
+tags = ["academic", "nature"]
+title = "Albinism what is this ?"
+math = true
+summary = """
+
+"""
 
 [header]
-image = "/post/2018-11-11-albinism-what-is-this_files/secondary-header.jpg"
+image = "headers/main-header.jpg"
 caption = "Image credit: **Derek Thompson** on Unsplash"
 preview = false
 
@@ -20,7 +19,7 @@ preview = false
 **Albino what is this,Albino in human and animals society,research about it**
 Some devellopement
 
-#What is albinism ?
+# What is albinism ?
 
 It ‘s a hereditary anomaly who cause a problem in pigmentation and a white aspect because the individu have lost his production in melanine.
 The anomaly touch reptil, birds, amphibian, mamal, fish and plant and make completely the albino white even if he have a normal number of  melanocytes or pigments cell.

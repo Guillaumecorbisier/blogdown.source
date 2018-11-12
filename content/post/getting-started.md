@@ -6,7 +6,7 @@ tags = ["academic", "nature"]
 title = "experiment"
 math = true
 summary = """
-Description of a project. 
+
 """
 
 [header]
@@ -16,7 +16,7 @@ preview = false
 
 +++
 
-
+hjskjnkhfzj
 
 
 
