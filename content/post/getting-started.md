@@ -3,7 +3,7 @@ date = 2016-04-20
 lastmod = 2018-09-20
 draft = false
 tags = ["academic", "nature"]
-title = "experiment"
+title = "Colour blindness"
 math = true
 summary = """
 
@@ -16,7 +16,7 @@ preview = false
 
 +++
 
-hjskjnkhfzj
+
 
 
 
