@@ -16,7 +16,7 @@ preview = false
 
 +++
 # Genomic
-Color blindness is a mutation that can cause ,like the name says, a malformation of the iris who is involve in colour perception. This anomaly is a modification on the X chromosm who are hedetary. The mutation is gived to the child like a typical recesive ill on the X chromosm. A male mutant can't give is anomaly to his son because he give Y chromosm to him. And a female affected by the ill will give it to his son 100% chance of time.Female people have less chance to be colorblind because they have 2 X chromosm and the mutation is recessive so all the parents need to carry the mutant X chromosm to have a colorblind daughter
+Color blindness is a mutation that can cause ,like the name says, a malformation of the iris who is involve in colour perception. This anomaly is a modification on the X chromosm who are hedetary. The mutation is gived to the child like a typical recesive ill on the X chromosm. A male mutant can't give is anomaly to his son because he give Y chromosm to him. And a female affected by the ill will give it to his son 100% chance of time.Female people have less chance to be colorblind because they have 2 X chromosm and the mutation is recessive so all the parents need to carry the mutant X chromosm to have a colorblind daughter.
 
 # Detection
 - Isharah test: it's a test with many panel of different color and number in this panel. 
@@ -29,10 +29,15 @@ Color blindness is a mutation that can cause ,like the name says, a malformation
 
 # Type of colorblindness
 It exist three light and one heavy type of colorblidness.
-- Acromatopsy: can not seen any color
+
+- Acromatopsy: can not seen any color.
+
 - Deuteranopian: people who cant see green. 
+
 - Protanopian: people who cant see red.
+
 - Tritanopian: people who cant blue.
+
 All mutation are caused by a lost of color receptor in the eye.
 
 
