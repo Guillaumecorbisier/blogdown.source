@@ -27,7 +27,7 @@ image = "Plants.jpg"
 caption = "Image credit: **Trevor Cole** on Unsplash"
 +++
 
-Here I describe my project using Markdown formatting...
+Plants is hard to determinate sometimes here is my herbarium to
 
 ![](/project/2018-10-01-herbarium_files/Plants.jpg)
 

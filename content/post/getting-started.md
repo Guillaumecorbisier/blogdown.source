@@ -10,12 +10,12 @@ summary = """
 """
 
 [header]
-image = "headers/color.jpg"
+image = "headers/color.png"
 caption = "Image credit:  on colormax.org"
 preview = false
 
 +++
-# Genomic
+# Genetic
 Color blindness is a mutation that can cause ,like the name says, a malformation of the iris who is involve in colour perception. This anomaly is a modification on the X chromosm who are hedetary. The mutation is gived to the child like a typical recesive ill on the X chromosm. A male mutant can't give is anomaly to his son because he give Y chromosm to him. And a female affected by the ill will give it to his son 100% chance of time.Female people have less chance to be colorblind because they have 2 X chromosm and the mutation is recessive so all the parents need to carry the mutant X chromosm to have a colorblind daughter.
 
 # Detection
