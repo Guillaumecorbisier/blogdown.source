@@ -29,61 +29,61 @@ caption = "Image credit: **Trevor Cole** on Unsplash"
 
 Ce projet sera lui fait en francais et commencera tout d'abord par une description de 30 grandes familles de plantes
 
-#Les 30 familles
+# Les 30 familles
 
-##Amygdalaceae :
+## Amygdalaceae :
 Arbre
 Rosideae sensus lato
 tronc possédant souvent des lignes horizontales
 ex: Cerisier a grappes et Merisier
 
-##Apiaceae :
+## Apiaceae :
 Inflorescence en ombelle
 ex: Carotte sauvage
 
-##Asteraceae :
+## Asteraceae :
 inflorescence en capitule
 ovaire infère
 ex: Bleuet et Vergerette des prés
 
-##Betulaceae :
+## Betulaceae :
 arbre, 4 grand arbre de belgique reconnaissable par leur feuille et tronc
 fleurs : inflorescence en chaton
 ex: Noisetier,Charme, Aulne (feuille avec recourbé au bout de la feuille), Bouleau verruqueux(tronc blanc, rameaux pendant)
 
-##Boraginaceae :
+## Boraginaceae :
 inflorescence : cyme scorpioide
 poil sur la tige et sur les feuilles
 symétrie radiaire
 ex: Myosotis des champs, Vipérine commune
 
 
-##Brassicaceae :
+## Brassicaceae :
 tétramère
 2+4 étamines
 pétale en croix
 fruit : sillique, sillicule
 ex: Bourse a pasteur (sillicule), Cardamine hirsute(sillique), Moutarde
 
-##Campanulaceae :
+## Campanulaceae :
 pentamère avec pétale soudée et sépale libre
 présence de latex
 fleur simple en clochette ou en inflorescence plus rare
 ex : Campanule raiponce (fleur simple), Raiponce globulaire (inflorescence)
 
-##Caryophyllaceae :
+## Caryophyllaceae :
 pétale 5 mère souvent bifide
 inflorescence en cyme bipare
 feuille opposée simple entière
 ex: inflorescence cyme
 ex: Stellaire holostée, Compagnon blanc, Compagnon rouge
 
-##Chenopodiaceae :
+## Chenopodiaceae :
 Fleur minuscule verdâtre
 inflorescence dense (cyme panicule ou épis)
 ex: Chenopode blanc
 
-##Cyperaceae :
+## Cyperaceae :
 ressemble a graminées
 3 étamines
 1 bractée
@@ -92,20 +92,20 @@ tige triangulaire meilleur critère déterminant
 présent près des cours d’eau
 ex: Laiche glauque, Laiche des bois
 
-##Dipsacaceae :
+## Dipsacaceae :
 feuille opposée
 fleur en inflorescence capitule
 fleur externe différent de celle interne
 peu d’espèce individu typique cabaret des oiseaux
 ex: Cabaret des oiseaux
 
-##Ericaceae :
+## Ericaceae :
 plante ligneuse (arbre ou buisson)
 souvent microphillie (petite feuille souvent rigide)
 corolles pendantes urcéolées (forme de vase renflé, de grelot)
 ex: Bruyère commune ou Callune (microphilie), Myrtillier (feuille standard)
 
-##Fabaceae :
+## Fabaceae :
 fleur a symétrie bilatéral
 feuilles stipulées composées
 présence de vrille pour la plupart
@@ -113,28 +113,28 @@ inflorescence panicule épis grappe
 fruit:gousse
 ex: Luzerne lupuline, Vesce des haies(présence de vrille), Trèfle blanc
 
-##Fagaceae :
+## Fagaceae :
 arbre
 inflorescence chaton pour fleur mâle
 fleur simple femelle
 arbre dominant reconnaissable par les feuilles
 ex: Hêtre, Chêne, Châtaignier
 
-##Geraniaceae :
+## Geraniaceae :
 feuille palmée ou fortement découpée
 pentamère
 10 étamines( pas de colonne staminal)
 fruit : schizocarpe très bon déterminant  
 ex: Herbe a robert, Géranium mollet
 
-##Hypericaceae :
+## Hypericaceae :
 fleur principalement jaune
 feuille opposée
 nombreuse étamines
 symétrie radiaire pentamère
 ex: Millepertuis perforé (présence de « trou » sur les feuilles)
 
-##Juncaceae :
+## Juncaceae :
 ressemble a graminées
 tige pleine a la base
 6 étamines
@@ -142,7 +142,7 @@ tige pleine a la base
 présent près des points d’eau principalement
 ex: Jonc gloméré, Luzule des bois 
 
-##Lamiaceae :
+## Lamiaceae :
 tige carrée
 feuilles opposées decussées     
 symétrie bilatéral
@@ -150,7 +150,7 @@ symétrie bilatéral
 fruit:tétrakène
 ex: Lamier blanc (il existe aussi le jaune), Lierre terrestre
 
-##Liliaceae :
+## Liliaceae :
 cycle de 3+3 pépale
 3+3 étamines
 présence de bulbe ou organe de réserve
@@ -158,38 +158,38 @@ paracorolle
 monocote avec tous les caractères qui en suivent
 ex: Jacinthes des bois, Parisette a quatre feuilles (exception fruit baie)
 
-##Malaceae :
+## Malaceae :
 arbre ou arbustre
 ovaire infère => faux fruit
 ex: Pommier, Poirier, Aubepine monogyne, Cotoneaster, Sorbier des oiselleurs 
 
-##Papaveraceae :
+## Papaveraceae :
 présence de latex
 tétramère
 pétale froisée
 étamines infinni
 ex: Grand coquelicot,Chélidoine
 
-##Poaceae :
+## Poaceae :
 3 étamines
 2 bractée
 ligule caractère simple pour trouver poaceae
 ex: Brome mou, Orge
 
-##Primulaceae :
+## Primulaceae :
 feuille opposées parfois alternes ou en rosette
 symétrie radiaire
 étamine soudées a la corolle
 ex: Primevère officinale
 
-##Ranunculaceae :
+## Ranunculaceae :
 parfois trimère
 symétrie radiaire et bilatéral
 étamines infini
 très polymorphe plante très différente dans la famille
 ex: Ficaire fausse renoncule, Bouton d’or, Anémone sylvie 
 
-##Rosaceae :
+## Rosaceae :
 plante herbacée, buissons ou arbre
 souvent rhizomes
 feuilles alternes
@@ -199,19 +199,19 @@ hypanthium
 5 sépale, 5 pétale, pour la plupart blanche
 ex: Fraisier sauvage, Potentille argentée, Rosier des chiens
 
-##Rubiaceae :
+## Rubiaceae :
 feuilles opposées ou verticillées
 souvent toxine
 parfois tétramère
 ex : Gaillet gratteron() petit boule accrochante en fruit), Gaillet croisette
 
-##Salicaceae :
+## Salicaceae :
 arbre a chaton en fleur
 peuplier et saule
 saule pleureur plante tropical a ne pas prendre
 ex: Saule fragile
 
-##Scrophulariaceae :
+## Scrophulariaceae :
 herbacé
 feuilles simple et entier opposés et alternes
 pentamère
@@ -219,14 +219,14 @@ symétrie bilatéral
 2 a 5 étamines soudés a la corolle
 ex: Linaire commune, Véronique de perse
 
-##Solanaceae :
+## Solanaceae :
 feuilles alternes simples entières
 symétrie radiaire
 étamines soudées a la corolle
 pentamère
 ex: Morelle noir
 
-##Violaceae :
+## Violaceae :
 pensée et violette
 symétrie bilatéral
 éperon nectarifère
@@ -238,74 +238,74 @@ Différence entre pensée et violette :
 Pensée: 4 pétales au dessus 1 en dessous
 Violette: 2 pétales au dessus et 3 en dessous
 
-#Herbier
+# Herbier
 
+
+## Ail des ours
 ![](/project/2018-10-01-herbarium_files/1.jpg)
-
+## Compagnon rouge
 ![](/project/2018-10-01-herbarium_files/2.jpg)
-
+## Fusain d'europe
 ![](/project/2018-10-01-herbarium_files/3.jpg)
-
+##Laiche des bois
 ![](/project/2018-10-01-herbarium_files/4.jpg)
-
+## Merisier
 ![](/project/2018-10-01-herbarium_files/5.jpg)
-
+## Brome mou
 ![](/project/2018-10-01-herbarium_files/6.jpg)
-
+## Carotte sauvage
 ![](/project/2018-10-01-herbarium_files/7.jpg)
-
+## Plantain lancéolé
 ![](/project/2018-10-01-herbarium_files/8.jpg)
-
+## Cardamine hirsute
 ![](/project/2018-10-01-herbarium_files/9.jpg)
-
+## Campanule raimponce
 ![](/project/2018-10-01-herbarium_files/10.jpg)
-
+## Vergerette du Canada
 ![](/project/2018-10-01-herbarium_files/11.jpg)
-
+## Sénéçon vulgaire
 ![](/project/2018-10-01-herbarium_files/12.jpg)
-
+## Prèle des champs
 ![](/project/2018-10-01-herbarium_files/13.jpg)
-
+## Euphorbe réveil-matin
 ![](/project/2018-10-01-herbarium_files/14.jpg)
-
+## Bouleau verruqueux
 ![](/project/2018-10-01-herbarium_files/15.jpg)
-
+## Fumeterre officinale
 ![](/project/2018-10-01-herbarium_files/16.jpg)
-
+## Chénopode blanc
 ![](/project/2018-10-01-herbarium_files/17.jpg)
-
+## Myosotis des champs
 ![](/project/2018-10-01-herbarium_files/18.jpg)
-
+## Moutarde des champs
 ![](/project/2018-10-01-herbarium_files/19.jpg)
-
+## Parisette à quatres feuilles
 ![](/project/2018-10-01-herbarium_files/20.jpg)
-
+## Cabaret des oiseaux
 ![](/project/2018-10-01-herbarium_files/21.jpg)
-
+## AUbépine monogyne
 ![](/project/2018-10-01-herbarium_files/22.jpg)
-
-![](/project/2018-10-01-herbarium_files/23.jpg)
-
+## Violette de Rivinus
 ![](/project/2018-10-01-herbarium_files/24.jpg)
-
+## Géranium herbe à Robert
 ![](/project/2018-10-01-herbarium_files/25.jpg)
-
+## Linaire commune
 ![](/project/2018-10-01-herbarium_files/26.jpg)
-
+## Bruyère commune
 ![](/project/2018-10-01-herbarium_files/27.jpg)
-
+## Ronce commune
 ![](/project/2018-10-01-herbarium_files/28.jpg)
-
+## Gaillet croisette
 ![](/project/2018-10-01-herbarium_files/29.jpg)
-
+## Primevère officinale
 ![](/project/2018-10-01-herbarium_files/30.jpg)
-
+## Millepertuis perforé
 ![](/project/2018-10-01-herbarium_files/31.jpg)
-
+## Grand coquelicot
 ![](/project/2018-10-01-herbarium_files/32.jpg)
-
+## Saule Fragile
 ![](/project/2018-10-01-herbarium_files/33.jpg)
-
+## Vulpin des prés
 ![](/project/2018-10-01-herbarium_files/34.jpg)
-
+## Chataignier
 ![](/project/2018-10-01-herbarium_files/35.jpg)
